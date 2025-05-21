@@ -106,7 +106,7 @@ const App = () => {
                 <Route path='/' element={<Layout children={<Home />} />} />
                 {routes.map(({ path, component }, index) => {
                   const Component = componentMap[component] || Error404;
-                  return <Route key={index} path={`/ballaghV5/#${path}`} element={<Layout children={<Component />} />} />;
+                  return <Route key={index} path={path} element={<Layout children={<Component />} />} />;
                 })}
               </Routes>
             {/* </Router> */}
