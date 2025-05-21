@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ballagh3/static/css/main.bc327488.css",
-    "main.js": "/ballagh3/static/js/main.2f5c3738.js",
-    "static/js/453.afdde5ce.chunk.js": "/ballagh3/static/js/453.afdde5ce.chunk.js",
-    "static/media/riode.eot?5gap68": "/ballagh3/static/media/riode.6f777af5c12ab902c54d.eot",
-    "static/media/riode.ttf?5gap68": "/ballagh3/static/media/riode.4f5f185d1b1d9cfcc7a6.ttf",
-    "static/media/riode.woff?5gap68": "/ballagh3/static/media/riode.879b38fc8c4c0e9f6904.woff",
-    "static/media/elements.png": "/ballagh3/static/media/elements.2b796e595926374d1bfe.png",
-    "index.html": "/ballagh3/index.html",
-    "main.bc327488.css.map": "/ballagh3/static/css/main.bc327488.css.map",
-    "main.2f5c3738.js.map": "/ballagh3/static/js/main.2f5c3738.js.map",
-    "453.afdde5ce.chunk.js.map": "/ballagh3/static/js/453.afdde5ce.chunk.js.map"
+    "main.css": "/ballaghV5/static/css/main.a36e6d53.css",
+    "main.js": "/ballaghV5/static/js/main.f62266b2.js",
+    "static/js/453.afdde5ce.chunk.js": "/ballaghV5/static/js/453.afdde5ce.chunk.js",
+    "static/media/riode.eot?5gap68": "/ballaghV5/static/media/riode.6f777af5c12ab902c54d.eot",
+    "static/media/riode.ttf?5gap68": "/ballaghV5/static/media/riode.4f5f185d1b1d9cfcc7a6.ttf",
+    "static/media/riode.woff?5gap68": "/ballaghV5/static/media/riode.879b38fc8c4c0e9f6904.woff",
+    "static/media/elements.png": "/ballaghV5/static/media/elements.2b796e595926374d1bfe.png",
+    "index.html": "/ballaghV5/index.html",
+    "main.a36e6d53.css.map": "/ballaghV5/static/css/main.a36e6d53.css.map",
+    "main.f62266b2.js.map": "/ballaghV5/static/js/main.f62266b2.js.map",
+    "453.afdde5ce.chunk.js.map": "/ballaghV5/static/js/453.afdde5ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc327488.css",
-    "static/js/main.2f5c3738.js"
+    "static/css/main.a36e6d53.css",
+    "static/js/main.f62266b2.js"
   ]
 }
