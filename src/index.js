@@ -99,9 +99,9 @@ const App = () => {
     <QueryClientProvider client={new QueryClient()}>
       <Provider store={store}>
         <ApiDataProvider>
-          <HashRouter>
+          {/* <HashRouter> */}
           {/* <BrowserRouter> */}
-            {/* <Router> */}
+            <Router>
               <Routes>
                 <Route path='/' element={<Layout children={<Home />} />} />
                 {routes.map(({ path, component }, index) => {
@@ -109,9 +109,9 @@ const App = () => {
                   return <Route key={index} path={path} element={<Layout children={<Component />} />} />;
                 })}
               </Routes>
-            {/* </Router> */}
+            </Router>
           {/* </BrowserRouter> */}
-          </HashRouter>
+          {/* </HashRouter> */}
         </ApiDataProvider>
       </Provider>
     </QueryClientProvider>
