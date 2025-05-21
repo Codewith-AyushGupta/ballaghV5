@@ -99,8 +99,8 @@ const App = () => {
     <QueryClientProvider client={new QueryClient()}>
       <Provider store={store}>
         <ApiDataProvider>
-          {/* <HashRouter> */}
-          <BrowserRouter>
+          <HashRouter>
+          {/* <BrowserRouter> */}
             {/* <Router> */}
               <Routes>
                 <Route path='/' element={<Layout children={<Home />} />} />
@@ -110,8 +110,8 @@ const App = () => {
                 })}
               </Routes>
             {/* </Router> */}
-          </BrowserRouter>
-          {/* </HashRouter> */}
+          {/* </BrowserRouter> */}
+          </HashRouter>
         </ApiDataProvider>
       </Provider>
     </QueryClientProvider>
