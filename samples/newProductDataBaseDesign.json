@@ -1,0 +1,367 @@
+{
+    "name": "Training Jersey 1",
+    "slug": "training-jersey-1",
+    "collectionsTag":["ballagh-gaa"],
+    "variantsOptionsSelectorForm": [
+        {
+            "type": "pickList",
+            "placeholder": "Size",
+            "label": "Size",
+            "value": "",
+            "name": "size",
+            "id": "size",
+            "options": [
+                "Small",
+                "Medium"
+            ],
+            "showLabel": false,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+        },
+        {
+            "type": "pickList",
+            "placeholder": "Color",
+            "label": "Color",
+            "value": "",
+            "name": "Color",
+            "id": "Color",
+            "options": [
+                "Red",
+                "Green"
+            ],
+            "showLabel": false,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+        },
+        {
+            "type": "radio",
+            "placeholder": "Engraving",
+            "label": "Engraving",
+            "value": "",
+            "name": "engraving",
+            "id": "engraving",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "showLabel": false,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+        },
+        {
+            "type": "radio",
+            "placeholder": "Gift Wrap",
+            "label": "Gift Wrap",
+            "value": "",
+            "name": "giftWrap",
+            "id": "giftWrap",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "showLabel": false,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+        }
+    ],
+    "productVariants": [
+        {
+            "name": "Training Jersey 1 (Red)",
+            "slug": "training-jersey-1-red",
+            "onePrice": 50,
+            "pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/48.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/49.png"
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/48.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/49.png"
+                }
+            ],
+            "isDefaultVariant": true,
+            "variantMatrix": [
+                {
+                    "value": "Small",
+                    "id": "size"
+                },
+                {
+                    "value": "red",
+                    "id": "Color"
+                }
+            ],
+            "customisationsForm": [
+                {
+                    "type": "text",
+                    "placeholder": "Initials",
+                    "label": "Initials",
+                    "value": "",
+                    "name": "Initials",
+                    "maxLength": 4,
+                    "id": "Initials",
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": false
+                }
+            ]
+        },
+        {
+            "name": "Training Jersey 1 (Red)",
+            "slug": "training-jersey-1-red",
+            "onePrice": 60,
+            "pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/48.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/49.png"
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/48.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/49.png"
+                }
+            ],
+            "isDefaultVariant": false,
+            "variantMatrix": [
+                {
+                    "type": "pickList",
+                    "placeholder": "Size",
+                    "label": "Size",
+                    "value": "Small",
+                    "name": "size",
+                    "id": "size",
+                    "options": [
+                        "Small",
+                        "Medium"
+                    ],
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                },
+                {
+                    "type": "pickList",
+                    "placeholder": "Color",
+                    "label": "Color",
+                    "value": "Green",
+                    "name": "Color",
+                    "id": "Color",
+                    "options": [
+                        "Red",
+                        "Green"
+                    ],
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                }
+            ],
+            "customizationsForm": [
+                {
+                    "type": "text",
+                    "placeholder": "Initials",
+                    "label": "Initials",
+                    "value": "",
+                    "name": "Initials",
+                    "maxLength": 4,
+                    "id": "Initials",
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": false
+                },
+                {
+                    "type": "radio",
+                    "placeholder": "Engraving",
+                    "label": "Engraving",
+                    "value": "",
+                    "name": "engraving",
+                    "id": "engraving",
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                },
+                {
+                    "type": "radio",
+                    "placeholder": "Gift Wrap",
+                    "label": "Gift Wrap",
+                    "value": "",
+                    "name": "giftWrap",
+                    "id": "giftWrap",
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                }
+            ]
+        },
+        {
+            "name": "Training Jersey 1 (Red)",
+            "slug": "training-jersey-1-red",
+            "onePrice": 20,
+            "pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/48.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/49.png"
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/48.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/49.png"
+                }
+            ],
+            "isDefaultVariant": true,
+            "variantMatrix": [
+                {
+                    "type": "pickList",
+                    "placeholder": "Size",
+                    "label": "Size",
+                    "value": "Medium",
+                    "name": "size",
+                    "id": "size",
+                    "options": [
+                        "Small",
+                        "Medium"
+                    ],
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                },
+                {
+                    "type": "pickList",
+                    "placeholder": "Color",
+                    "label": "Color",
+                    "value": "Red",
+                    "name": "Color",
+                    "id": "Color",
+                    "options": [
+                        "Red",
+                        "Green"
+                    ],
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                }
+            ],
+            "customizationsForm": [
+                {
+                    "type": "text",
+                    "placeholder": "Initials",
+                    "label": "Initials",
+                    "value": "",
+                    "name": "Initials",
+                    "maxLength": 4,
+                    "id": "Initials",
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": false
+                },
+                {
+                    "type": "radio",
+                    "placeholder": "Engraving",
+                    "label": "Engraving",
+                    "value": "",
+                    "name": "engraving",
+                    "id": "engraving",
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                },
+                {
+                    "type": "radio",
+                    "placeholder": "Gift Wrap",
+                    "label": "Gift Wrap",
+                    "value": "",
+                    "name": "giftWrap",
+                    "id": "giftWrap",
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                }
+            ]
+        },
+        {
+            "name": "Training Jersey 1 (Red)",
+            "slug": "training-jersey-1-red",
+            "onePrice": 90,
+            "pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/4.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/5.png"
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/6.png"
+                },
+                {
+                    "url": "https://grg.veckler.com/collection-images/ballaghaderreen-gaa/7.png"
+                }
+            ],
+            "isDefaultVariant": true,
+            "variantMatrix": [
+                {
+                    "type": "pickList",
+                    "placeholder": "Size",
+                    "label": "Size",
+                    "value": "Medium",
+                    "name": "size",
+                    "id": "size",
+                    "options": [
+                        "Small",
+                        "Medium"
+                    ],
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                },
+                {
+                    "type": "pickList",
+                    "placeholder": "Color",
+                    "label": "Color",
+                    "value": "Green",
+                    "name": "Color",
+                    "id": "Color",
+                    "options": [
+                        "Red",
+                        "Green"
+                    ],
+                    "showLabel": false,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                }
+            ],
+            "customizationsForm": []
+        }
+    ]
+}

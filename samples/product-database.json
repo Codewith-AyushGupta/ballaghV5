@@ -1,0 +1,340 @@
+[
+  {
+    "collectionName": " Curry GAA",
+    "collectionSlug": "curry-gaa",
+    "collectionIcon": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/banner-image.png",
+    "CollectionBannerImage": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/images/contact-us/1.png",
+    "deliveryOptions": [
+      {
+        "type": "Pick up in store",
+        "cost": 0,
+        "isAddressReadOnly": true,
+        "address1": "Ballaghaderreen GAA Club",
+        "address2": "Knockanaconny, Ballaghaderreen,",
+        "city": "Ballaghaderreen",
+        "state": "Co. Roscommon",
+        "zipCode": "F45 TX82",
+        "country": "Ireland"
+      },
+      {
+        "type": "Home delivery",
+        "cost": 7.50,
+        "isAddressReadOnly": false
+      }
+    ],
+    "products": [
+      {
+        "name": "Adults Pack - Skinnies",
+        "slug": "curry-gaa-adults-skinnies",
+        "collection": {
+          "collectionName": "Curry GAA",
+          "collectionSlug": "curry-gaa"
+        },
+        "price": [
+          60,
+          100
+        ],
+        "onePrice": 64.00,
+        "ratings": 3.18,
+        "reviews": 721,
+        "stock": 500,
+        "short_description": "",
+        "is_featured": true,
+        "is_new": false,
+        "until": "2024-02-25",
+        "discount": "",
+        "description": {
+          "tab1": {
+            "tab_heading": "Description",
+            "feature": {
+              "heading": "Feature",
+              "description": "Praesent id enim sit amet.Tdio vulputate eleifend in in tortor. ellus massa. siti iMassa ristique sit amet condim vel, facilisis quimequistiqutiqu amet condim Dilisis Facilisis quis sapien. Praesent id enim sit amet.",
+              "details": [
+                "Praesent id enim sit amet.Tdio vulputate",
+                "Eleifend in in tortor. ellus massa.Dristique sitii",
+                "Massa ristique sit amet condim vel",
+                "Dilisis Facilisis quis sapien. Praesent id enim sit amet"
+              ]
+            },
+            "specifications": {
+              "heading": "Specifications",
+              "Material": "Praesent id enim sit amet.Tdio",
+              "Claimed Size": "Praesent id enim sit",
+              "Recommended Use": "Praesent id enim sit amet.Tdio vulputate eleifend in in tortor. ellus massa. siti",
+              "Manufacturer": "Praesent id enim"
+            }
+          },
+          "tab2": {
+            "tab_heading": "Additional Description",
+            "heading": "Free Shipping",
+            "description": "We deliver to over 100 countries around the world. For full details of the delivery options we offer, please view our Delivery information We hope you’ll love every purchase, but if you ever need to return an item you can do so within a month of receipt. For full details of how to make a return, please view our Returns information"
+          }
+        },
+        "formFields": [
+          {
+            "type": "pickList",
+            "placeholder": "Size",
+            "label": "Size",
+            "value": "",
+            "name": "size",
+            "id": "size",
+            "options": [
+              "13/14",
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL",
+              "XXXL",
+              "4XL"
+            ],
+            "showLabel": false,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          },
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "value": "",
+            "name": "Initials",
+            "maxLength": 4,
+            "id": "Initials",
+            "showLabel": false,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": false
+          }
+        ],
+        "pictures": [
+          {
+            "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/1.png"
+          }
+        ],
+        "small_pictures": [
+          {
+            "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/1.png"
+          }
+        ]
+      },
+      {
+        "isBundledProduct": true,
+        "name": "Bundle - Hoodie & Skinnies",
+        "slug": "bundle-pack-hoodie-skinnies",
+        "collection": {
+          "collectionName": "Curry GAA",
+          "collectionSlug": "curry-gaa"
+        },
+        "pictures": [
+          {
+            "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/1.png"
+          }
+        ],
+        "small_pictures": [
+          {
+            "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/1.png"
+          }
+        ],
+        "onePrice": 64,
+        "bundleProductItems": [
+          {
+            "name": "Adults Pack - Hoodie",
+            "slug": "curry-gaa-adults-pack-hoodie",
+            "collection": {
+              "collectionName": "Curry GAA",
+              "collectionSlug": "curry-gaa"
+            },
+            "price": [
+              60,
+              100
+            ],
+            "onePrice": 64.00,
+            "ratings": 3.18,
+            "reviews": 721,
+            "stock": 500,
+            "short_description": "",
+            "is_featured": true,
+            "is_new": false,
+            "until": "2024-02-25",
+            "discount": "",
+            "description": {
+              "tab1": {
+                "tab_heading": "Description",
+                "feature": {
+                  "heading": "Feature",
+                  "description": "Praesent id enim sit amet.Tdio vulputate eleifend in in tortor. ellus massa. siti iMassa ristique sit amet condim vel, facilisis quimequistiqutiqu amet condim Dilisis Facilisis quis sapien. Praesent id enim sit amet.",
+                  "details": [
+                    "Praesent id enim sit amet.Tdio vulputate",
+                    "Eleifend in in tortor. ellus massa.Dristique sitii",
+                    "Massa ristique sit amet condim vel",
+                    "Dilisis Facilisis quis sapien. Praesent id enim sit amet"
+                  ]
+                },
+                "specifications": {
+                  "heading": "Specifications",
+                  "Material": "Praesent id enim sit amet.Tdio",
+                  "Claimed Size": "Praesent id enim sit",
+                  "Recommended Use": "Praesent id enim sit amet.Tdio vulputate eleifend in in tortor. ellus massa. siti",
+                  "Manufacturer": "Praesent id enim"
+                }
+              },
+              "tab2": {
+                "tab_heading": "Additional Description",
+                "heading": "Free Shipping",
+                "description": "We deliver to over 100 countries around the world. For full details of the delivery options we offer, please view our Delivery information We hope you’ll love every purchase, but if you ever need to return an item you can do so within a month of receipt. For full details of how to make a return, please view our Returns information"
+              }
+            },
+            "formFields": [
+              {
+                "type": "pickList",
+                "placeholder": "Size",
+                "label": "Size",
+                "value": "",
+                "name": "Size",
+                "id": "Size",
+                "options": [
+                  "13/14",
+                  "XS",
+                  "S",
+                  "M",
+                  "L",
+                  "XL",
+                  "XXL",
+                  "XXXL",
+                  "4XL",
+                  "5XL"
+                ],
+                "showLabel": false,
+                "showPlaceHolder": true,
+                "area": 12,
+                "isRequired": true
+              },
+              {
+                "type": "text",
+                "placeholder": "Initials",
+                "label": "Initials",
+                "value": "",
+                "name": "Initials",
+                "maxLength": 4,
+                "id": "Initials",
+                "showLabel": false,
+                "showPlaceHolder": true,
+                "area": 12,
+                "isRequired": false
+              }
+            ],
+            "pictures": [
+              {
+                "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/23.png"
+              }
+            ],
+            "small_pictures": [
+              {
+                "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/23.png"
+              }
+            ]
+          },
+          {
+            "name": "Adults Pack - Skinnies",
+            "slug": "curry-gaa-adults-pack-Skinnies",
+            "collection": {
+              "collectionName": "Curry GAA",
+              "collectionSlug": "curry-gaa"
+            },
+            "price": [
+              60,
+              100
+            ],
+            "onePrice": 64.00,
+            "ratings": 3.18,
+            "reviews": 721,
+            "stock": 500,
+            "short_description": "",
+            "is_featured": true,
+            "is_new": false,
+            "until": "2024-02-25",
+            "discount": "",
+            "description": {
+              "tab1": {
+                "tab_heading": "Description",
+                "feature": {
+                  "heading": "Feature",
+                  "description": "Praesent id enim sit amet.Tdio vulputate eleifend in in tortor. ellus massa. siti iMassa ristique sit amet condim vel, facilisis quimequistiqutiqu amet condim Dilisis Facilisis quis sapien. Praesent id enim sit amet.",
+                  "details": [
+                    "Praesent id enim sit amet.Tdio vulputate",
+                    "Eleifend in in tortor. ellus massa.Dristique sitii",
+                    "Massa ristique sit amet condim vel",
+                    "Dilisis Facilisis quis sapien. Praesent id enim sit amet"
+                  ]
+                },
+                "specifications": {
+                  "heading": "Specifications",
+                  "Material": "Praesent id enim sit amet.Tdio",
+                  "Claimed Size": "Praesent id enim sit",
+                  "Recommended Use": "Praesent id enim sit amet.Tdio vulputate eleifend in in tortor. ellus massa. siti",
+                  "Manufacturer": "Praesent id enim"
+                }
+              },
+              "tab2": {
+                "tab_heading": "Additional Description",
+                "heading": "Free Shipping",
+                "description": "We deliver to over 100 countries around the world. For full details of the delivery options we offer, please view our Delivery information We hope you’ll love every purchase, but if you ever need to return an item you can do so within a month of receipt. For full details of how to make a return, please view our Returns information"
+              }
+            },
+            "formFields": [
+              {
+                "type": "pickList",
+                "placeholder": "Size",
+                "label": "Size",
+                "value": "",
+                "name": "Size",
+                "id": "Size",
+                "options": [
+                  "13/14",
+                  "XS",
+                  "S",
+                  "M",
+                  "L",
+                  "XL",
+                  "XXL",
+                  "XXXL",
+                  "4XL",
+                  "5XL"
+                ],
+                "showLabel": false,
+                "showPlaceHolder": true,
+                "area": 12,
+                "isRequired": true
+              },
+              {
+                "type": "text",
+                "placeholder": "Initials",
+                "label": "Initials",
+                "value": "",
+                "name": "Initials",
+                "maxLength": 4,
+                "id": "Initials",
+                "showLabel": false,
+                "showPlaceHolder": true,
+                "area": 12,
+                "isRequired": false
+              }
+            ],
+            "pictures": [
+              {
+                "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/1.png"
+              }
+            ],
+            "small_pictures": [
+              {
+                "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/collection-images/ballagh-gaa/1.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

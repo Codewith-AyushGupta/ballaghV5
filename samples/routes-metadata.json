@@ -1,0 +1,75 @@
+[
+    {
+      "path": "/",
+      "component": "Home"
+    },
+    {
+      "path": "/pages/:pageSlug",
+      "component": "DynamicPageGenerator"
+    },
+    {
+      "path": "/pages/checkout",
+      "component": "Checkout"
+    },
+    {
+      "path": "/pages/cart",
+      "component": "Cart"
+    },
+    {
+      "path": "/order?/:session_id",
+      "component": "Order"
+    },
+    {
+      "path": "*",
+      "component": "Error404"
+    },
+    {
+      "path": "/store/:storeSlug",
+      "component": "ProductViewForCollectionOrStore"
+    },
+    {
+      "path": "/store/:storeSlug/products/:productSlug",
+      "component": "ProductEntryPage"
+    },
+    {
+      "path": "/store/all",
+      "component": "StoreAll"
+    },
+    {
+      "path": "/pages/doc-upload",
+      "component": "DocUploader"
+    },
+    {
+      "path": "/report-magic-link",
+      "component": "GetMagicLinkForReport"
+    },
+    {
+      "path": "/store-magic-link",
+      "component": "GetMagicLinkForStore"
+    },
+    {
+      "path": "/product-magic-link",
+      "component": "GetMagicLinkForProduct"
+    },
+    {
+      "path": "/upload-store-file",
+      "component": "UploadStoreData"
+    },
+    {
+      "path": "/upload-product-file",
+      "component": "UploadProductData"
+    },
+    {
+      "path": "/admin",
+      "component": "Admin"
+    },
+    {
+      "path": "/admin-after-getting-presignedurl",
+      "component": "AdminAfterGettingPreSignedURL"
+    },
+    {
+      "path": "/search-result",
+      "component": "SearchResultHome"
+    }
+  ]
+  

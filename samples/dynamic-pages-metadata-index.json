@@ -1,0 +1,114 @@
+{
+    "about-us": [
+        {
+            "component": "IntroSection",
+            "props": [
+                {
+                    "slideId": "bodyCenter",
+                    "smallTextTile": "GRG ",
+                    "largeTextTitle": "About Us",
+                    "rightAlign": {
+                        "normalText": "",
+                        "highlightedText": ""
+                    },
+                    "centerAlignButton": {
+                        "label": "Shop",
+                        "url": "#"
+                    },
+                    "image": {
+                        "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/images/home-page-carousel/1.png",
+                        "alt-text": "banner-image"
+                    }
+                },
+                {
+                    "slideId": "leftAlign",
+                    "smallTextTile": "lifestyle collection",
+                    "largeTextTitle": "FOR WOMEN'S",
+                    "subTitle": {
+                        "normalText": "Sales UP TO",
+                        "highlightedText": "30% OFF"
+                    },
+                    "blowSubtitle": "Get free shipping on all orders over at €90.00",
+                    "leftAlignButton": {
+                        "label": "Shop",
+                        "url": "#"
+                    },
+                    "image": {
+                        "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/images/home-page-carousel/2.png",
+                        "alt-text": "banner-image"
+                    }
+                }
+            ]
+        }
+    ],
+    "our-services": [
+        {
+            "component": "AdvertisementCard",
+            "props": {
+                "leftAlignCard": {
+                    "image": {
+                        "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/images/advertisement-card/1.png",
+                        "altText": "card-1-image"
+                    },
+                    "rightAlignLightWeightHeading": "New Arrivals",
+                    "rightAlignBoldWeightHeading": "Jersey Sale",
+                    "anchorButton": {
+                        "label": "Shop now",
+                        "url": "#"
+                    }
+                },
+                "rightAlignCard": {
+                    "image": {
+                        "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/images/advertisement-card/2.png",
+                        "altText": "card-2-image"
+                    },
+                    "rightAlignLightWeightHeading": "Trending",
+                    "rightAlignBoldWeightHeading": "New Sneakers",
+                    "anchorButton": {
+                        "label": "Shop now",
+                        "url": "#"
+                    }
+                }
+            }
+        },
+        {
+            "component": "ServiceBox",
+            "props": [
+                {
+                    "boldHeading": "Free Delivery",
+                    "subHeading": "When You Spend €80 or More"
+                },
+                {
+                    "boldHeading": "Tracked delivery",
+                    "subHeading": "Only €6 Standard 6-10 Days"
+                },
+                {
+                    "boldHeading": "Need it in a hurry",
+                    "subHeading": "You can Express Shipping in 5 Days"
+                },
+                {
+                    "boldHeading": "30 - Day returns",
+                    "subHeading": "Return Most Items Within 30 Days"
+                }
+            ]
+        },
+        {
+            "component": "PromoSection",
+            "props": {
+                "image": {
+                    "url": "https://0d142b13-92b3-4b01-a900-f7b7d9993adf-grg-970547349107.s3.eu-west-1.amazonaws.com/images/promo-section/1.png",
+                    "alt-text": "promo-image"
+                },
+                "leftCenterTitleText": {
+                    "normalHeading": "END OF SEASON",
+                    "boldHeading": "SALE"
+                },
+                "insideCircle": {
+                    "normalText": "at up to",
+                    "highlightedText": "50%",
+                    "smallTextSize": "off"
+                }
+            }
+        }
+    ]
+}

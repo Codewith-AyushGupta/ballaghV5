@@ -1,0 +1,38 @@
+[
+    {
+        "label": "Home",
+        "tabType": "SinglePropertyTabView",
+        "isActive": true,
+        "url": "/"
+    },
+    {
+        "label": "Find My Club",
+        "tabType": "SinglePropertyTabView",
+       "isActive": true,
+        "url": "/store/all"
+    },
+    {
+        "label": "Contact Us",
+        "tabType": "SinglePropertyTabView",
+       "isActive": true,
+        "url": "/pages/contact-us"
+    },
+    {
+        "label": "About Us",
+        "tabType": "SinglePropertyTabView",
+       "isActive": true,
+        "url": "/pages/about-us"
+    },
+    {
+        "label": "Our Services",
+        "tabType": "SinglePropertyTabView",
+       "isActive": true,
+        "url": "/pages/our-services"
+    },
+    {
+        "label": "Blogs",
+        "tabType": "SinglePropertyTabView",
+       "isActive": true,
+        "url": "/blogs/all"
+    }
+]

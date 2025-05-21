@@ -1,0 +1,66 @@
+[
+    {
+        "storeName": "Ballaghaderreen Gaa",
+        "deliveryOption": {
+            "name": "Delivery",
+            "slug": "delivery",
+            "collectionsTag": [],
+            "storeTag": [
+                "ballaghaderreengaa"
+            ],
+            "variantsOptionsSelectorForm": [
+                {
+                    "type": "pickList",
+                    "placeholder": "Delivery Option",
+                    "label": "Delivery Option",
+                    "value": "",
+                    "name": "deliveryOption",
+                    "id": "deliveryOption",
+                    "options": [
+                        "Email"
+                    ],
+                    "showLabel": true,
+                    "showPlaceHolder": true,
+                    "area": 12,
+                    "isRequired": true
+                }
+            ],
+            "productVariants": [
+                {
+                    "stock": 100,
+                    "name": "Email",
+                    "slug": "email",
+                    "price": 0,
+                    "pictures": [
+                        {
+                            "url": "https://www.ballaghaderreengaaclub.com/images/delivery.png"
+                        }
+                    ],
+                    "small_pictures": [
+                        {
+                            "url": "https://www.ballaghaderreengaaclub.com/images/delivery.png"
+                        }
+                    ],
+                    "isDefaultVariant": true,
+                    "variantMatrix": [
+                        {
+                            "value": "Email",
+                            "id": "deliveryOption"
+                        }
+                    ],
+                    "customisationsForm": []
+                }
+            ]
+        },
+        "storeMessage": "",
+        "storeLogo": "https://www.ballaghaderreengaaclub.com/com/storeImages/41.png",
+        "storeBannerImageUrl": "https://www.ballaghaderreengaaclub.com/storeImages/.png",
+        "storeBannerBackgroundColor": "#fffF",
+        "storeThemeColor": "#1d8943",
+        "storeNameColor": "#000000",
+        "storeOpenDate": "2024-12-01",
+        "isDefaultStore": "FALSE",
+        "storeCloseDate": "2025-03-30",
+        "storeSlug": "ballaghaderreengaa"
+    }
+]

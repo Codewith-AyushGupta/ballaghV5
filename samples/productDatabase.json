@@ -1,0 +1,1052 @@
+[
+  {
+    "productId": "1",
+    "name": "Training Jersey 1",
+    "productSlug": "traning-jersey-1-ballhaderren-gaa",
+    "storeTag": ["ballaghaderreen-gaa"],
+    "collectionTag": "",
+    "vendorTag": "GRG",
+    "startDate":"2024-01-01",
+    "endDate":"2025-02-10",
+    "estimatedDeliveryInDays":3,
+    "variantsOptionsSelectorForm": [
+      {
+        "type": "pickList",
+        "placeholder": "Size",
+        "label": "Size",
+        "value": "",
+        "name": "size",
+        "id": "size",
+        "options": [
+          "1/2",
+          "3/4",
+          "5/6",
+          "7/8",
+          "9/10",
+          "11/12",
+          "13/14",
+          "XS",
+          "Small",
+          "Medium",
+          "Large",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "showLabel": true,
+        "showPlaceHolder": true,
+        "area": 12,
+        "isRequired": true
+      }
+    ],
+    "productOrder": "2",
+    "slug": "training-jersey-1",
+    "discount":{
+      "name":"ballagh-15",
+      "rate":15
+    },
+    "productVariants": [
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": true,
+        "price": "25",
+        "variantMatrix": [{ "value": "1/2", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "25",
+        "variantMatrix": [{ "value": "3/4", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "25",
+        "variantMatrix": [{ "value": "5/6", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "25",
+        "variantMatrix": [{ "value": "7/8", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "25",
+        "variantMatrix": [{ "value": "9/10", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "25",
+        "variantMatrix": [{ "value": "11/12", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "25",
+        "variantMatrix": [{ "value": "13/14", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "XS", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "Small", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "Medium", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "Large", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "XL", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "2XL", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "3XL", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "4XL", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      },
+      {
+        "productId": "1",
+        "productVariantId": "",
+        "name": "Training Jersey 1",
+        "stock": "100",
+        "images": "[48,49]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "5XL", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-1",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/48.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/49.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "2",
+    "name": "Training Jersey 2",
+    "productSlug": "",
+    "storeTag": ["curry-gaa"],
+    "collectionTag": "",
+    "startDate":"2024-01-01",
+    "endDate":"2025-05-10",
+    "estimatedDeliveryInDays":3,
+    "vendorTag": "GRG",
+    "discount":{
+      "name":"curry-15",
+      "rate":15
+    },
+    "variantsOptionsSelectorForm": [
+      {
+        "type": "pickList",
+        "placeholder": "Size",
+        "label": "Size",
+        "value": "",
+        "name": "size",
+        "id": "size",
+        "options": [
+          "1/2",
+          "3/4",
+          "5/6",
+          "7/8",
+          "9/10",
+          "11/12",
+          "13/14",
+          "XS",
+          "Small",
+          "Medium",
+          "Large",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "showLabel": true,
+        "showPlaceHolder": true,
+        "area": 12,
+        "isRequired": true
+      }
+    ],
+    "productOrder": "1",
+    "slug": "training-jersey-2",
+    "productVariants": [
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Training Jersey 2",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": true,
+        "price": "30",
+        "variantMatrix": [{ "value": "1/2", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-2",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/50.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/51.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/50.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/51.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Training Jersey 2",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "25",
+        "variantMatrix": [{ "value": "3/4", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-2",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/50.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/51.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/50.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/51.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Training Jersey 2",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "30",
+        "variantMatrix": [{ "value": "5/6", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "training-jersey-2",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/50.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/51.png" }
+        ],
+        "small_pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/50.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/51.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "3",
+    "name": "Socks - GAA Full",
+    "productSlug": "training-shocks",
+    "storeTag": ["ballaghaderreen-gaa","curry-gaa"],
+    "vendorTag": "GRG",
+    "startDate":"2024-01-01",
+    "endDate":"2025-05-10",
+    "estimatedDeliveryInDays":0,
+    "collectionTag": "",
+    "variantsOptionsSelectorForm": [
+      {
+        "type": "pickList",
+        "placeholder": "Size",
+        "label": "Size",
+        "value": "",
+        "name": "size",
+        "id": "size",
+        "options": [
+          "XXXS",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "showLabel": true,
+        "showPlaceHolder": true,
+        "area": 12,
+        "isRequired": true
+      }
+    ],
+    "productOrder": "1",
+    "slug": "socks-gaa-full",
+    "productVariants": [
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Socks - GAA Full",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": true,
+        "price": "10",
+        "variantMatrix": [{ "value": "XXXS", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "socks-gaa-full",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ],
+        "small_pictures": [
+            { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+            { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Socks - GAA Full",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "10",
+        "variantMatrix": [{ "value": "XS", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "socks-gaa-full",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ],
+        "small_pictures": [
+            { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+            { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Socks - GAA Full",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "10",
+        "variantMatrix": [{ "value": "XL", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "socks-gaa-full",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ],
+        "small_pictures": [
+            { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+            { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Socks - GAA Full",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "10",
+        "variantMatrix": [{ "value": "S", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "socks-gaa-full",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ],
+        "small_pictures": [
+            { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+            { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Socks - GAA Full",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "10",
+        "variantMatrix": [{ "value": "M", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "socks-gaa-full",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ],
+        "small_pictures": [
+            { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+            { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Socks - GAA Full",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "10",
+        "variantMatrix": [{ "value": "L", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "socks-gaa-full",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ],
+        "small_pictures": [
+            { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+            { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ]
+      },
+      {
+        "productId": "2",
+        "productVariantId": "",
+        "name": "Socks - GAA Full",
+        "stock": "100",
+        "images": "[50,51]",
+        "isDefaultVariant": false,
+        "price": "10",
+        "variantMatrix": [{ "value": "2XL", "id": "size" }],
+        "customisationsForm": [
+          {
+            "type": "text",
+            "placeholder": "Initials",
+            "label": "Initials",
+            "defaultValue": "",
+            "readOnly": false,
+            "name": "initials",
+            "maxLength": 4,
+            "id": "initials",
+            "showLabel": true,
+            "showPlaceHolder": true,
+            "area": 12,
+            "isRequired": true
+          }
+        ],
+        "slug": "socks-gaa-full",
+        "pictures": [
+          { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+          { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ],
+        "small_pictures": [
+            { "url": "https://grg.sportsstore24.com/storeImages/79.png" },
+            { "url": "https://grg.sportsstore24.com/storeImages/80.png" }
+        ]
+      }
+    ]
+  }
+]

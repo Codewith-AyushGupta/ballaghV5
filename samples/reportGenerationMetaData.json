@@ -1,0 +1,43 @@
+[
+    {
+        "label": "Supplier Report",
+        "tableName": "snapshot/lineItems",
+        "storeBasesQuery": "SELECT  name AS Name , IFNULL(price->product->images->0, 'No Image Available') AS Image1, IFNULL(price->product->images->1, 'No Image Available') AS Image2, IFNULL(variantMatrix->size, 'Size Not Available') AS Size, IFNULL(customisationsForm->initials, 'Initials Not Available') AS Initials, IFNULL(quantity, 'quantity Name Not Available') AS Quantity FROM ? WHERE storeName IS NOT NULL OR storeName = '{{storeNamePlaceHolder}}' ORDER BY name ASC",
+
+        "allStoreQuery": "SELECT  name AS Name , IFNULL(price->product->images->0, 'No Image Available') AS Image1, IFNULL(price->product->images->1, 'No Image Available') AS Image2, IFNULL(variantMatrix->size, 'Size Not Available') AS Size, IFNULL(customisationsForm->initials, 'Initials Not Available') AS Initials, IFNULL(quantity, 'quantity Name Not Available') AS Quantity FROM ? WHERE storeName IS NOT NULL ORDER BY name ASC",
+        "reportFileName":"Supplier Report",
+        "rowPerPage":8
+    },
+    {
+        "label": "POC Report",
+        "tableName": "snapshot/orderWithLineItems",
+        "storeBasesQuery": "SELECT  name FROM ?",
+        "allStoreQuery": "SELECT orderId AS OrderID, generateHTMLString(lineItems, {'quantity':'Quantity'}, {'amount_total':'Amount Price'},{'storeName':'Store Name'},{'name':'Name'},{'snapshotDate':'Snapshot Date'},{'image':'Image'},{'quantity':'Quantity1'}, {'amount_total':'Amount Price1'},{'storeName':'Store Name1'},{'name':'Name1'},{'snapshotDate':'Snapshot Date1'},{'image':'Image1'},{'quantity':'Quantity2'}, {'amount_total':'Amount Price2'},{'storeName':'Store Name2'},{'name':'Name2'},{'snapshotDate':'Snapshot Date2'},{'image':'Image2'}) AS CustomerDetailsHtml FROM ?",
+        "reportFileName":"POC Report",
+        "rowPerPage":8
+    },
+    {
+        "label": "GRG Collection Sticker Report",
+        "tableName": "snapshot/deliveryItems",
+        "storeBasesQuery": "SELECT orderId AS OrderId,customerDetails->name AS Name,customerDetails->phone AS Phone, variantMatrix->deliveryOption AS PickUpAt FROM ?",
+        "allStoreQuery": "SELECT orderId AS OrderId,orderId AS OrderI4,customerDetails->name AS Name,customerDetails->phone AS Phone, variantMatrix->deliveryOption AS PickUpAt FROM ?",
+        "reportFileName":"POC Report",
+        "rowPerPage":8
+    },
+    {
+        "label": "GRG Supplier Sticker Report",
+        "tableName": "snapshot/lineItems",
+        "storeBasesQuery": "SELECT  name FROM ?",
+        "allStoreQuery": "SELECT storeName AS StoreName ,checkoutSession->id AS OrderId, variantMatrix->size AS Size ,customisationsForm->initials AS Initials ,name AS Name FROM ? WHERE productSlug != 'delivery'",
+        "reportFileName":"POC Report",
+        "rowPerPage":8
+    },
+    {
+        "label": "DPD Report",
+        "tableName": "snapshot/deliveryItems",
+        "storeBasesQuery": "SELECT orderId AS checkoutSessionId , COALESCE(file_exists, '') AS B , customerDetails-\u003Ename AS CustomerName, variantMatrix-\u003EdeliveryOption , COALESCE(file_exists, '') AS E, customisationsForm-\u003EaddressLine1 ,customisationsForm-\u003EaddressLine2 ,customisationsForm-\u003Ecity,customisationsForm-\u003Ezipcode ,COALESCE(file_exists, '1') AS J,COALESCE(file_exists, '1') AS K,COALESCE(file_exists, 'N') AS L,COALESCE(file_exists, 'O') AS M,COALESCE(file_exists, '') AS N,COALESCE(file_exists, '') AS O,COALESCE(file_exists, '') AS P,COALESCE(file_exists, '') AS Q,COALESCE(file_exists, '') AS R,COALESCE(file_exists, '') AS S,COALESCE(file_exists, '') AS T,COALESCE(file_exists, '') AS U,COALESCE(file_exists, '') AS V,COALESCE(file_exists, '') AS W,customerDetails-\u003Ename AS CustomerName,COALESCE(file_exists, '') AS Y,COALESCE(file_exists, '') AS Z,COALESCE(file_exists, '') AS AA,COALESCE(file_exists, '') AS AB,customisationsForm-\u003Ezipcode AS ZipCode,customerDetails-\u003Eemail AS CustomerEmail,COALESCE(file_exists, 'Y') AS AE,COALESCE(file_exists, 'Y') AS AF,customerDetails-\u003Ephone AS CustomerPhone FROM ?",
+        "allStoreQuery": "SELECT orderId AS checkoutSessionId , COALESCE(file_exists, '') AS B , customerDetails-\u003Ename AS CustomerName, variantMatrix-\u003EdeliveryOption , COALESCE(file_exists, '') AS E, customisationsForm-\u003EaddressLine1 ,customisationsForm-\u003EaddressLine2 ,customisationsForm-\u003Ecity,customisationsForm-\u003Ezipcode ,COALESCE(file_exists, '1') AS J,COALESCE(file_exists, '1') AS K,COALESCE(file_exists, 'N') AS L,COALESCE(file_exists, 'O') AS M,COALESCE(file_exists, '') AS N,COALESCE(file_exists, '') AS O,COALESCE(file_exists, '') AS P,COALESCE(file_exists, '') AS Q,COALESCE(file_exists, '') AS R,COALESCE(file_exists, '') AS S,COALESCE(file_exists, '') AS T,COALESCE(file_exists, '') AS U,COALESCE(file_exists, '') AS V,COALESCE(file_exists, '') AS W,customerDetails-\u003Ename AS CustomerName,COALESCE(file_exists, '') AS Y,COALESCE(file_exists, '') AS Z,COALESCE(file_exists, '') AS AA,COALESCE(file_exists, '') AS AB,customisationsForm-\u003Ezipcode AS ZipCode,customerDetails-\u003Eemail AS CustomerEmail,COALESCE(file_exists, 'Y') AS AE,COALESCE(file_exists, 'Y') AS AF,customerDetails-\u003Ephone AS CustomerPhone FROM ?",
+        "reportFileName":"DPD Report",
+        "rowPerPage":25
+    }
+]

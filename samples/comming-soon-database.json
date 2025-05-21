@@ -1,0 +1,44 @@
+{
+    "pageTitle": "Coming Soon",
+    "metaTitle": " | Coming Soon",
+    "heading": "Coming Soon",
+    "description": "We are currently working on an awesome new site. Stay tuned for more information. Subscribe to our newsletter to stay updated on our progress.",
+    "countdown": {
+      "days": 10
+    },
+    "form": {
+      "inputPlaceholder": "Enter Your Email Address",
+      "buttonText": "Subscribe"
+    },
+    "images": {
+      "url": "https://d-themes.com/wordpress/riode/elements/wp-content/uploads/sites/3/2020/09/coming-soon.jpg"
+    },
+    "socialLinks": [
+      {
+        "platform": "Facebook",
+        "iconClass": "fab fa-facebook-f",
+        "url": "#"
+      },
+      {
+        "platform": "Twitter",
+        "iconClass": "fab fa-twitter",
+        "url": "#"
+      },
+      {
+        "platform": "Instagram",
+        "iconClass": "fab fa-instagram",
+        "url": "#"
+      },
+      {
+        "platform": "Pinterest",
+        "iconClass": "fab fa-pinterest-p",
+        "url": "#"
+      },
+      {
+        "platform": "Email",
+        "iconClass": "far fa-envelope",
+        "url": "#"
+      }
+    ]
+}
+  

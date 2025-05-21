@@ -1,0 +1,88 @@
+@media (max-width: 768px) {
+    .reverse-form {
+        flex-direction: column-reverse;
+    }
+
+    .border-bottom {
+        width: 128px !important;
+    }
+}
+
+.border-bottom {
+    border-bottom: 2px solid black;
+    width: 48%;
+    margin: auto;
+}
+
+.width-10 {
+    width: 10%;
+}
+
+.text-align-right {
+    text-align: right !important;
+}
+
+.text-align-center {
+    text-align: center !important;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="gray"><path d="M7 10l5 5 5-5H7z"/></svg>') no-repeat right 10px center;
+    background-color: white;
+    background-size: 20px;
+    padding-right: 40px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+select:focus {
+    border-color: #666;
+    outline: none;
+}
+.image-grey-background{
+    background-color: #f6f6f6;
+}
+.image-remove-background{
+    mix-blend-mode: multiply;
+}
+@media print {
+    .hide-on-print {
+        display: none;
+    }
+    .page-break {
+        page-break-after: always; /* Forces a page break after this element */
+    }
+    .no-break {
+        page-break-inside: avoid; /* Prevents a page break inside this element */
+    }
+}
+font-weight-100{
+    font-weight: 200 !important;
+}
+@media print {
+    * {
+      -webkit-print-color-adjust: exact !important; 
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    thead {
+      display: table-header-group; 
+    }
+
+    tr, td, th {
+      page-break-inside: avoid;
+    }
+
+    img {
+      max-width: 50px;
+      max-height: 50px;
+    }
+  }
+  
